@@ -1,0 +1,20 @@
+{
+  "app": {
+    "title": "TCH Coffee",
+    "headerColor": "",
+    "textColor": "black",
+    "statusBarColor": "#ffffff",
+    "leftButton": "back"
+  },
+  "debug": false,
+  "listCSS": [],
+  "listSyncJS": [],
+  "listAsyncJS": [],
+  "template": {
+    "primaryColor": "",
+    "secondaryColor": "",
+    "serviceFee": 25000,
+    "searchBar": true
+  },
+  "pages": ["/user", "/form", "/dynamic-route", "/about", "/404"]
+}
